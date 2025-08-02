@@ -1,0 +1,9 @@
+{
+  "name": "Offline Voice Chat",
+  "short_name": "VoiceChat",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "description": "A voice chat app with offline transcription and LLM response",
+  "icons": []
+}
